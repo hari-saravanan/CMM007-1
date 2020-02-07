@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: left;
+    border: 1px solid black;
+}
+
+li a {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+p {
+    width: 300px;
+    float: left;
+    margin-top: 0;
+    padding-left: 10px;
+}
+
+section {
+    display: block;
+}
+
+#header-img {
+    float: left;
+}
+
+#heading {
+    padding: 20px 0 0 20px;
+}
+
+#main-img {
+    float: left;
+}
